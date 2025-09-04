@@ -1,6 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 @layer base {
   :root {
@@ -87,3 +96,4 @@
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
 }
+

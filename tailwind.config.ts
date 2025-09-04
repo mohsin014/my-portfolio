@@ -26,6 +26,11 @@ const config = {
       },
     },
     extend: {
+
+       fontFamily: {
+        sans: ["var(--font-geist-sans)", "sans-serif"],
+        mono: ["var(--font-geist-mono)", "monospace"],
+      },
       gridAutoRows:{
         '18': "18rem"
       },
