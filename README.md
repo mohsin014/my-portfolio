@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+First, install the dependencies necesarry for the project 
+
+```bash 
+npm install 
 
 First, run the development server:
 
@@ -34,3 +37,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+### Aceternity Ui 
+This Ui libary is used for the major components so make sure to use this libary, super easy to use, beginer friendly
+
+### ShadCn 
+Used for theme provider
+
+### Tailwind 
+
+For the Css very easy to use you can change the css or if you to use any different preprocessor you use it but i will recommened Tailwind
